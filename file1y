@@ -1,0 +1,9 @@
+Hello world!
+12345
+Good bye!
+<<<<<<< HEAD
+Line from user 2
+Line from user 1
+some new feature456
+=======
+>>>>>>> critical bug fixed
